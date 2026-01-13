@@ -32,9 +32,8 @@ footer{
     color: #666;
 }
 .profile{
-    width: 5px;
-    height: 5px;
-    border-radius: 0%;
+    width: 120px;
+    border-radius: 50%;
     margin-top: auto 10px;
     display: block;
     object-fit: cover;
